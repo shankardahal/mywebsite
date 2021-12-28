@@ -1,0 +1,108 @@
+ .u-section-1 {
+  min-height: 730px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 39px calc(((100% - 1140px) / 2) + 993px) 0 calc(((100% - 1140px) / 2) + 16px);
+}
+
+.u-section-1 .u-image-1 {
+  width: 600px;
+  height: 503px;
+  margin: 91px auto 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 3.75rem;
+  margin: -490px calc(((100% - 1140px) / 2) + 63px) 60px calc(((100% - 1140px) / 2) + 581px);
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 810px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 180px;
+    margin-right: calc(((100% - 940px) / 2) + 809px);
+    margin-left: calc(((100% - 940px) / 2));
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: 0;
+    margin-bottom: initial;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 114px;
+    margin-right: calc(((100% - 720px) / 2) + 589px);
+    margin-left: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 196px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 192px;
+    margin-bottom: 60px;
+    margin-left: calc(((100% - 720px) / 2) + 224px);
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 760px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 312px;
+    margin-right: calc(((100% - 540px) / 2) + 409px);
+    margin-left: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 453px;
+    margin-top: 20px;
+    margin-right: calc(((100% - 540px) / 2) + 409px);
+    margin-left: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 144px;
+    margin-bottom: 57px;
+    margin-left: calc(((100% - 540px) / 2) + 270px);
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 592px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 228px;
+    margin-left: calc(((100% - 340px) / 2));
+    margin-right: calc(((100% - 340px) / 2) + 209px);
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 285px;
+    margin-top: 90px;
+    margin-right: calc(((100% - 340px) / 2));
+    margin-left: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 3rem;
+    margin-right: 91px;
+    margin-bottom: 0;
+    margin-left: calc(((100% - 340px) / 2) + 170px);
+  }
+}
